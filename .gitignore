@@ -103,3 +103,10 @@ ENV/
 
 # idea
 .idea/
+
+# sphinx
+_build/
+_static/
+_templates/
+Makefile
+make.bat
