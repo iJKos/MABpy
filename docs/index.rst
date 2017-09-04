@@ -7,9 +7,9 @@ Welcome to MABpy's documentation!
 =================================
 
 .. toctree::
+   modules
    :maxdepth: 2
    :caption: Contents:
-
 
 
 Indices and tables
