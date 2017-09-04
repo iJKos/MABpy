@@ -110,3 +110,6 @@ _static/
 _templates/
 Makefile
 make.bat
+
+# pypi
+.pypirc
