@@ -1,4 +1,4 @@
-from MAB.base import GameEnviroment
+from MABpy.base import GameEnviroment
 import numpy as np
 
 

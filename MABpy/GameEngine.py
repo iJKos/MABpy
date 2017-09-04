@@ -1,6 +1,6 @@
 import pandas as pd
 
-from MAB.base import IteractionModel, Agent
+from MABpy.base import IteractionModel, Agent
 
 class Game(IteractionModel):
     """

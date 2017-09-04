@@ -1,6 +1,6 @@
 import numpy as np
 
-from MAB.base import Agent
+from MABpy.base import Agent
 
 class RandomAgent(Agent):
     """
