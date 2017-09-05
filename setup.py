@@ -42,5 +42,5 @@ setup(
       'Programming Language :: Python :: 3.5',
     ],
 
-    install_requires=['numpy'],
+    install_requires=['numpy','pandas'],
 )

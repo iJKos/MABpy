@@ -1,1 +1,2 @@
 numpy>0.13
+pandas>0.5
